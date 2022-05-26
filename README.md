@@ -1,6 +1,5 @@
 ### Olá, eu sou o Lucas
 - 🎓 Graduando em Sistemas de Informação 4/8.
-- 💻 Estudando Python.
 
 <div align="center">
   <a href="https://github.com/Lmelonio">
