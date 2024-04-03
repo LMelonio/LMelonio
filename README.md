@@ -1,5 +1,5 @@
 ### Olá, eu sou o Lucas
-- 🎓 Graduando em Engenharia de Software 7/9.
+- 🎓 Graduando em Engenharia de Software 8/9.
 
 <div align="center">
   <a href="https://github.com/Lmelonio">
